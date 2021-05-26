@@ -5,7 +5,7 @@ int main(int argc, const char * argv[]) {
 //int x [5] [10]; dediğimizde bunun 5 satır 10 sutunu olur yanı 50 elamnı olur
 //değer vermek mümkündür=> int x[2] y[3] = {1,2,3,4,5,6} ilk satır:1 2 3  ikinci satır  4 5 6 olur (burada neden y yazdığını anlamadım sonradan okuyorum şuan
     
-/* kolay ve mantığı anlamak için öenmli  bir örnek
+ kolay ve mantığı anlamak için öenmli  bir örnek
 
     int i,j;
     int dizi[3][4] = {11,23,13,15,//Birinci satır
@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
     }
     return 0;
 }
- */
+ 
 
     //2. örnek iki matrisin toplamı
     /*
